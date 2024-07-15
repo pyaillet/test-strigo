@@ -1,0 +1,6 @@
+---
+classes:
+  - exercises:
+      - title: Prerequisites
+        file: ../test-linux.md
+        syntax: md-extended
